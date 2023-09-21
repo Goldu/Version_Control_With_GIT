@@ -86,8 +86,11 @@ Create a remote repository on a platform like GitHub and follow their instructio
 git remote add origin https://github.com/yourusername/my_python_project.git
 git push -u origin master
 ```
-## 
+## Step 13: Pulling Changes
+If you're working with others, you'll need to pull changes from the remote repository before pushing your own.
 
 ```bash
-
+git pull origin master
 ```
+
+
