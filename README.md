@@ -46,10 +46,10 @@ git commit -m "Initial commit"
 ```bash
 git log
 ```
-## 
-
+## Step 7: Creating Branches
+Branches allow you to work on different features or versions of your code simultaneously. Let's create a new branch called feature.
 ```bash
-
+git branch feature
 ```
 ## 
 
