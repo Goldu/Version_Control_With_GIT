@@ -32,8 +32,36 @@ Create some Python files in your project directory. For example, let's create ma
 def greet():
     print("Hello, Python!")
 ```
+Now, let's add this file to the staging area.
+```bash
+git add main.py
+```
+## Step 5: Making Commits
+
+```bash
+git commit -m "Initial commit"
+```
+## Step 6: Viewing the Commit History
+
+```bash
+git log
+```
 ## 
 
+```bash
+
+```
+## 
+
+```bash
+
+```
+## 
+
+```bash
+
+```
+## 
 
 ```bash
 
