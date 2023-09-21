@@ -51,15 +51,19 @@ Branches allow you to work on different features or versions of your code simult
 ```bash
 git branch feature
 ```
-## 
+## Step 8: Switching Branches
+Switch to the feature branch.
 
 ```bash
-
+git checkout feature
 ```
-## 
+## Step 9: Making Changes
+Make changes to your Python code. For example, let's edit main.py:
 
-```bash
-
+```python
+# main.py
+def greet():
+    print("Hello, Python! (Feature)")
 ```
 ## 
 
