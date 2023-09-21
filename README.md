@@ -11,7 +11,7 @@ After installation, open a terminal or command prompt and set your username and 
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
-
+ls -l
 
 ## Step 3: Creating a New Git Repository
 Let's start by creating a new directory for your Python project.
