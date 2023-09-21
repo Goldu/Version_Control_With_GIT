@@ -20,4 +20,7 @@ Let's start by creating a new directory for your Python project.
 mkdir my_python_project
 cd my_python_project
 ```
-
+Then, initialize a new Git repository.
+```bash
+git init
+```
