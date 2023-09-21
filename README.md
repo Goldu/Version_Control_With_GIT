@@ -16,3 +16,8 @@ git config --global user.email "youremail@example.com"
 ## Step 3: Creating a New Git Repository
 Let's start by creating a new directory for your Python project.
 
+```bash
+mkdir my_python_project
+cd my_python_project
+```
+
