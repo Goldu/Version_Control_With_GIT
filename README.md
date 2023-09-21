@@ -24,3 +24,17 @@ Then, initialize a new Git repository.
 ```bash
 git init
 ```
+## Step 4: Adding Files
+Create some Python files in your project directory. For example, let's create main.py.
+
+```python
+# main.py
+def greet():
+    print("Hello, Python!")
+```
+## 
+
+
+```bash
+
+```
