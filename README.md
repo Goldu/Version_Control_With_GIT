@@ -65,6 +65,27 @@ Make changes to your Python code. For example, let's edit main.py:
 def greet():
     print("Hello, Python! (Feature)")
 ```
+## Step 10: Adding and Committing Changes
+Add and commit your changes on the feature branch.
+
+```bash
+git add main.py
+git commit -m "Added feature"
+```
+## Step 11: Merging Branches
+Once you're satisfied with the changes on the feature branch, you can merge it back into the master branch.
+
+```bash
+git checkout master
+git merge feature
+```
+## Step 12: Pushing to a Remote Repository
+Create a remote repository on a platform like GitHub and follow their instructions for adding a remote. Then, push your local repository to the remote.
+
+```bash
+git remote add origin https://github.com/yourusername/my_python_project.git
+git push -u origin master
+```
 ## 
 
 ```bash
