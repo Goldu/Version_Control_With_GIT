@@ -1,4 +1,4 @@
-# Version Control with Git: A Python Developer's Guide
+# Version Control with Git: Developer's Guide
 
 ## Step 1: Installing Git
 
